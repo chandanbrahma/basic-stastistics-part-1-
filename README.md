@@ -1,5 +1,5 @@
 # basic-stastistics-part-1-
-Please go through the exercise to get an idea of some basic concepts of statistics like 
+Please go through the exercise to get an idea of some basic concepts of statistics like\n
 1.Datatypes
 2.Probability
 3.Mean , median, mode
