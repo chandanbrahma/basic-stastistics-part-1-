@@ -6,4 +6,4 @@ Please go through the exercise to get an idea of some basic concepts of statisti
 4.Variance, standard deviation
 5.Range, expected value
 6.Skewness, kurtosis
-7.Confidence interval and degree of freedom
+7.Confidence interval and degree of  freedom
